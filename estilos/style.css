@@ -33,7 +33,7 @@ body {
 .cabecalho__menu__link {
     font-family: var(--font-secundaria);
     font-weight: 600;
-    font-size: 1.5rem;
+    tamanho da fonte: 1.25rem;
     color: var(--cor-terciaria);
     text-decoration: none;
 }
